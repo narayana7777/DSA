@@ -23,7 +23,7 @@ public class ValidParantheses {
     }
 
     public static void main(String[] args) {
-        String str1="()[]{}";
+        // String str1="()[]{}";
         String str="{][]}";
         isValid(str);
     }
