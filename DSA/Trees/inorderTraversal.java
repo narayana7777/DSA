@@ -54,7 +54,7 @@ class Node {
     }
 }
 
-public class preorder {
+public class inorderTraversal {
 
      ArrayList<Integer> ans = new ArrayList<>();
     ArrayList<Integer> inOrder(Node root) {
